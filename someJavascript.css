@@ -32,8 +32,8 @@ button{
 button:hover{
     background-color:#8a2be2;
     color:white;
-    box-shadow: 0px 5px 7px #8a2be2;
-    border:1px solid white;
+    box-shadow: 0px 2px 7px .1px #8a2be2;
+    
 }
 .j{
     color:#ff0000;
